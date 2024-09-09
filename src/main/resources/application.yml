@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: 27_SBMS_Service_Registry1
+    
+server:
+  port: 8761
